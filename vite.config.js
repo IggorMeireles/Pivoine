@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: '/src/pages/Home/Home',
+  base: '/src/pages/Home/Home.jsx',
 })
